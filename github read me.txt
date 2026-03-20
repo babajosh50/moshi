@@ -1,0 +1,114 @@
+1-create a AI driven learning cum coaching platform for Uttarakhand state of india
+2-it includes all the exams covered under state of Uttarakhand for jobs in govt sector
+3-exams includes following -
+(1. Uttarakhand Public Service Commission (UKPSC)
+The UKPSC conducts exams for Group A and Group B (Gazetted) administrative and departmental positions.
+
+Combined State Civil/Upper Subordinate Services (PCS): The premier exam for posts like SDM, Deputy SP, and Treasury Officer. (2026 Prelims: May 17; Mains: July 5).
+
+Lower PCS: For posts like Nayab Tehsildar, Supply Inspector, and Deputy Jailor.
+
+Review Officer (RO) & Assistant Review Officer (ARO): Conducted for the Secretariat, UKPSC, and the Advocate General’s Office.
+
+Judicial Service Civil Judge Exam: For recruitment into the state's legal and judicial services.
+
+Assistant Prosecution Officer (APO): For legal roles within the Home Department.
+
+Lecturer (Government Inter College): Recruitment for Group C teaching positions in secondary education.
+
+Forest Range Officer (FRO) & Assistant Conservator of Forest (ACF): Technical exams for the Forest Department.
+
+Assistant Engineer (AE): For engineering graduates in departments like PWD, Irrigation, and Jal Sansthan.
+
+2. Uttarakhand Subordinate Service Selection Commission (UKSSSC)
+The UKSSSC focuses on Group C (Non-Gazetted) and frontline field staff.
+
+Graduate Level Exams: Common exams for posts like Village Development Officer (VDO), Village Panchayat Development Officer (VPDO), and Assistant Social Welfare Officer.
+
+Intermediate (10+2) Level Exams: For Junior Assistants, Data Entry Operators (DEO), and Tax Collectors.
+
+Uniformed Services: Recruitment for Uttarakhand Police Constable, Sub-Inspector (SI), and Forest Guard.
+
+Stenographer & Personal Assistant: Skill-based exams requiring shorthand and typing proficiency.
+
+Assistant Teacher (LT): Specifically for Licentiate Teacher grades in government schools.
+
+Technical Posts: Includes Junior Engineer (JE), Livestock Extension Officer, and Lab Assistant.
+
+3. Uttarakhand Medical Service Selection Board (UKMSSB)
+The UKMSSB handles specialized recruitments for the state’s healthcare infrastructure.
+
+Nursing Officer: Large-scale recruitment for government medical colleges and hospitals.
+
+Medical Officer (Ordinary Grade/Specialist): Direct recruitment and interviews for MBBS and MD/MS holders.
+
+Pharmacist (Allopathic/Ayurvedic): Recruitment for state insurance and health services.
+
+Technician Roles: Includes Lab Technicians, X-Ray Technicians, and CSSD Technicians.
+
+Assistant Professor (Nursing/Medical Education): Academic roles within state medical colleges.
+
+4. Other Specialized Recruiting Bodies
+Uttarakhand Technical Education Board (UBTER): Occasionally conducts exams for staff nurses and certain technical cadres.
+
+State-Run Corporations: Entities like UPCL (Power), UJVNL (Hydro), and PTCUL (Transmission) often conduct independent exams for Assistant Engineers and Accountants.)
+
+4-subjects includes -
+(As of March 2026, the state of Uttarakhand conducts government job recruitments through three primary commissions and boards. Each body is responsible for different "Groups" of services based on pay scale and responsibility.
+
+1. Uttarakhand Public Service Commission (UKPSC)
+The UKPSC is the premier body for Group A and B (Gazetted) positions.
+
+Combined State Civil/Upper Subordinate Services (PCS): The most prestigious exam for roles like SDM, Deputy SP, and Treasury Officer. (2026 Prelims: May 17; Mains: July 5).
+
+Combined State Lower Subordinate Services (Lower PCS): For posts like Nayab Tehsildar and Supply Inspector.
+
+Judicial Service Civil Judge Exam: Recruitment for the state's junior judiciary. (2026 Prelims: April 21-24).
+
+Review Officer (RO) & Assistant Review Officer (ARO): Conducted for the Uttarakhand Secretariat, UKPSC, and the Advocate General’s Office.
+
+Assistant Engineer (AE): Technical recruitment for departments like PWD, Irrigation, and Rural Works.
+
+Lecturer (Government Inter College): Recruitment for Group C teaching positions in secondary education. (2026 Mains: Jan 25).
+
+Forest Range Officer (FRO) & Assistant Conservator of Forest (ACF): Specialized exams for the Forest Department.
+
+2. Uttarakhand Subordinate Service Selection Commission (UKSSSC)
+The UKSSSC handles the majority of Group C (Non-Gazetted) and frontline technical recruitments.
+
+Graduate Level Exams: Common exams for Village Development Officer (VDO), Village Panchayat Development Officer (VPDO), and Assistant Social Welfare Officer.
+
+Intermediate (10+2) Level Exams: For Junior Assistants, Data Entry Operators (DEO), and Tax Collectors.
+
+Uniformed Services: Recruitment for Uttarakhand Police Constable, Sub-Inspector (SI), and Forest Guard.
+
+Assistant Teacher (LT): Recruitment for Licentiate Teacher grades in state schools.
+
+Stenographer & Personal Assistant: Skill-based exams focused on typing and shorthand.
+
+Technical Posts: Includes Junior Engineer (JE), Lab Assistant, and Livestock Extension Officer.
+
+3. Uttarakhand Medical Service Selection Board (UKMSSB)
+The UKMSSB is dedicated to staffing the state’s healthcare and medical education sectors.
+
+Nursing Officer: Large-scale recruitment for government hospitals and medical colleges.
+
+Medical Officer (MBBS/Specialist): Direct recruitment for doctors in state health services.
+
+Pharmacist (Allopathic/Ayurvedic): Recruitment for state insurance and medical departments.
+
+Technician Roles: Includes X-Ray Technicians, Lab Technicians, and Dental Hygienists.
+
+Assistant Professor: For faculty positions in Government Medical Colleges.
+
+Other Notable Recruitment Entities
+Uttarakhand Board of Technical Education (UBTER): Primarily conducts the JEEP polytechnic entrance, but occasionally handles direct recruitment for Group D staff and Staff Nurses.
+
+State Corporations: Organizations like UPCL (Power), UJVNL (Hydro), and PTCUL (Transmission) often hold independent exams for engineers and accounts officers.
+
+Important Note: For almost all state exams, Uttarakhand General Knowledge accounts for 25-40% of the question paper.)
+
+5- create a data bank of books, last 10 years exam papers.
+6- basis on previous yeaRS papers predict the pattern of topics and provide question for every exams according to their exam format.
+7- make AI to fetch every day topics and news covered in papers and govt reports.
+8- provide student space for writing answers and uploading jpeg of hand written answer and then you provide the weakness and strength of student on that and provide correct answer.
