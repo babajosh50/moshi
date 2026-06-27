@@ -1,0 +1,19 @@
+page:
+  size: A4
+  orientation: portrait
+  margin_mm: 18
+palette:
+  navy: '#14345A'
+  saffron: '#F4A000'
+  green: '#2E7D32'
+  slate: '#4D5A66'
+  gold: '#B8860B'
+  light: '#F7F8FA'
+  white: '#FFFFFF'
+fonts:
+  body: Helvetica
+  heading: Helvetica-Bold
+charts:
+  dpi: 300
+  width_in: 7.2
+  height_in: 4.5
