@@ -1,0 +1,26 @@
+principle: "Never fabricate observed data. Empty outputs are preferable to invented observations."
+official_sources:
+  srs:
+    name: "Sample Registration System Statistical Reports"
+    publisher: "Office of the Registrar General & Census Commissioner, India"
+    expected_content: "India and state fertility indicators, rural/urban fertility, vital statistics"
+  nfhs:
+    name: "National Family Health Survey"
+    publisher: "Ministry of Health and Family Welfare; IIPS"
+    expected_content: "State, rural/urban, education and health indicators"
+  census:
+    name: "Census of India"
+    publisher: "Office of the Registrar General & Census Commissioner, India"
+    expected_content: "Population, age-sex structure, rural/urban, literacy, migration"
+  world_bank:
+    name: "World Development Indicators"
+    publisher: "World Bank"
+    expected_content: "International comparator indicators"
+  un_wpp:
+    name: "World Population Prospects"
+    publisher: "United Nations Population Division"
+    expected_content: "International estimates and projections"
+missing_data_policy:
+  observed_values: "Only loaded from official or clearly cited public source files."
+  forecasts: "Always labelled model-based estimates."
+  placeholders: "Marked visibly in figures, tables, logs and report text."
